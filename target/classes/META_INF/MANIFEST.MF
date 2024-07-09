@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_292 (Oracle Corporation)
+Build-Jdk: 1.8.0_292
+Specification-Title: Encryption Strategy Library
+Specification-Version: 1.0
+Specification-Vendor: ActivistiCat
+Implementation-Title: com.activistic.encryption
+Implementation-Version: 1.0.0
+Implementation-Vendor: ActivistiCat
